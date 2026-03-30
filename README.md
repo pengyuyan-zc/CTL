@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Federated CTN-LT
 
 联邦学习版本的CTN-LT (Contrastive Transformer Network for Long Tail Classification)
@@ -310,3 +311,6 @@ print(f"Zero-shot labels recall: {freq_results['zero_shot']['recall']:.4f}")
 ---
 
 **注意**: 本项目仍在开发中，欢迎反馈和建议！
+=======
+# CTL
+>>>>>>> e97316a5d3c4f95f0aad167511c4f0c677df04d5
